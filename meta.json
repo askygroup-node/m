@@ -1,1 +1,34 @@
-{"name": "Skyskipper","description": "Let's nodes together","ticker": "Skyskipper","homepage": "https://skyskipper.eu"}
+{
+  "verification": "7830ed6ca5b798d0af",
+    "how-to-implement": "https://raw.githubusercontent.com/askygroup-node/-/main/mt.json",
+    "info": {
+        "url_png_icon_64x64": "https://skyskipper.eu/wp-content/uploads/2023/10/android-chrome-192x192-1-1-e1698150528749.png",
+        "url_png_logo": "https://skyskipper.eu/wp-content/uploads/2023/10/logo.svg",
+        "location": "Vienna, Austria",
+        "social": {
+            "twitter_handle": "https://twitter.com/SkySkipper_",
+            "telegram_handle": "https://t.me/SkySkipper_Nodes",
+            "facebook_handle": "https://www.facebook.com/skyskipper.eu",
+            "youtube_handle": "",
+            "twitch_handle": "",
+            "discord_handle": "https://discord.gg/m2yMAwbv23",
+            "github_handle": "",
+            "patreon_handle": "",
+            "linkedin_handle": "https://www.linkedin.com/company/skyskipper",
+            "ada_handle": "$cexplorer"
+        },
+        "company": {
+            "name": "SIA SkyGroup",
+            "addr": "Valmieras iela 22-9",
+            "city": "Riga",
+            "country": "Latvija",
+            "company_id": "40103783505",
+            "vat_id": "LV42PARX0016196750001"
+        },
+        "about": {
+            "me": "Skyskipper",
+            "server": "Virtuozzo cluster, detacenter in Vienna 1000MB up/down.",
+            "company": "Skyskipper"
+        }
+    }
+}
